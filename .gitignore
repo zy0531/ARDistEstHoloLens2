@@ -10,7 +10,6 @@
 /Distance Estimation/[Ll]ogs/
 /Distance Estimation/[Mm]emoryCaptures/
 /Distance Estimation/[Aa]PP/
-/Distance Estimation/[Aa]PP2/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/Distance Estimation/[Aa]ssets/**/*.meta
