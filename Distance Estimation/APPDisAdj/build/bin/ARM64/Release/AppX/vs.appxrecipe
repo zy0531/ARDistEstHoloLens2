@@ -29,13 +29,13 @@
     <AppXManifest Include="D:\Brooke\Unity\Distance Estimation\APPDisAdj\build\bin\ARM64\Release\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-27T18:43:55.127</Modified>
+      <Modified>2023-10-05T21:27:44.089</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Brooke\Unity\Distance Estimation\APPDisAdj\build\bin\ARM64\Release\Distance Estimation.exe">
       <PackagePath>Distance Estimation.exe</PackagePath>
-      <Modified>2023-09-27T18:43:54.519</Modified>
+      <Modified>2023-10-05T21:27:42.686</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\Unity\Hub\Editor\2020.3.14f1\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\il2cpp\ARM64\Release\UnityPlayer.winmd">
       <PackagePath>UnityPlayer.winmd</PackagePath>
@@ -47,7 +47,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Brooke\Unity\Distance Estimation\APPDisAdj\build\bin\ARM64\Release\Distance_Estimation.winmd">
       <PackagePath>Distance_Estimation.winmd</PackagePath>
-      <Modified>2023-09-20T20:13:31.986</Modified>
+      <Modified>2023-10-05T21:27:42.498</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Brooke\Unity\Distance Estimation\APPDisAdj\Distance Estimation\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
@@ -86,7 +86,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Brooke\Unity\Distance Estimation\APPDisAdj\Distance Estimation\StoreManifest.xml">
       <PackagePath>StoreManifest.xml</PackagePath>
-      <Modified>2023-09-27T18:41:13.226</Modified>
+      <Modified>2023-10-05T21:23:34.645</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Brooke\Unity\Distance Estimation\APPDisAdj\Distance Estimation\Data\il2cpp_data\etc\mono\mconfig\config.xml">
       <PackagePath>Data\il2cpp_data\etc\mono\mconfig\config.xml</PackagePath>
@@ -94,7 +94,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Brooke\Unity\Distance Estimation\APPDisAdj\Distance Estimation\Data\boot.config">
       <PackagePath>Data\boot.config</PackagePath>
-      <Modified>2023-09-27T18:41:10.688</Modified>
+      <Modified>2023-10-05T21:23:33.265</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Brooke\Unity\Distance Estimation\APPDisAdj\Distance Estimation\Data\il2cpp_data\etc\mono\2.0\machine.config">
       <PackagePath>Data\il2cpp_data\etc\mono\2.0\machine.config</PackagePath>
@@ -122,11 +122,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Brooke\Unity\Distance Estimation\APPDisAdj\Distance Estimation\Data\globalgamemanagers">
       <PackagePath>Data\globalgamemanagers</PackagePath>
-      <Modified>2023-09-27T18:39:50.401</Modified>
+      <Modified>2023-10-05T21:23:29.603</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Brooke\Unity\Distance Estimation\APPDisAdj\Distance Estimation\Data\level0">
       <PackagePath>Data\level0</PackagePath>
-      <Modified>2023-09-27T18:39:46.427</Modified>
+      <Modified>2023-10-05T21:23:26.375</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Brooke\Unity\Distance Estimation\APPDisAdj\Distance Estimation\Data\il2cpp_data\etc\mono\config">
       <PackagePath>Data\il2cpp_data\etc\mono\config</PackagePath>
@@ -138,39 +138,39 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Brooke\Unity\Distance Estimation\APPDisAdj\Distance Estimation\Data\Resources\unity_builtin_extra">
       <PackagePath>Data\Resources\unity_builtin_extra</PackagePath>
-      <Modified>2023-09-27T18:41:10.685</Modified>
+      <Modified>2023-10-05T21:23:33.264</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Brooke\Unity\Distance Estimation\APPDisAdj\Distance Estimation\Data\globalgamemanagers.assets">
       <PackagePath>Data\globalgamemanagers.assets</PackagePath>
-      <Modified>2023-09-27T18:39:50.554</Modified>
+      <Modified>2023-10-05T21:23:29.738</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Brooke\Unity\Distance Estimation\APPDisAdj\Distance Estimation\Data\resources.assets">
       <PackagePath>Data\resources.assets</PackagePath>
-      <Modified>2023-09-27T18:39:52.493</Modified>
+      <Modified>2023-10-05T21:23:29.881</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Brooke\Unity\Distance Estimation\APPDisAdj\Distance Estimation\Data\sharedassets0.assets">
       <PackagePath>Data\sharedassets0.assets</PackagePath>
-      <Modified>2023-09-27T18:40:56.283</Modified>
+      <Modified>2023-10-05T21:23:32.834</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Brooke\Unity\Distance Estimation\APPDisAdj\Distance Estimation\Data\nativePlugins.txt">
       <PackagePath>Data\nativePlugins.txt</PackagePath>
-      <Modified>2023-09-27T18:42:02.717</Modified>
+      <Modified>2023-10-05T21:24:00.781</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Brooke\Unity\Distance Estimation\APPDisAdj\Distance Estimation\Data\resources.assets.resS">
       <PackagePath>Data\resources.assets.resS</PackagePath>
-      <Modified>2023-09-27T18:39:52.493</Modified>
+      <Modified>2023-10-05T21:23:29.881</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Brooke\Unity\Distance Estimation\APPDisAdj\Distance Estimation\Data\sharedassets0.assets.resS">
       <PackagePath>Data\sharedassets0.assets.resS</PackagePath>
-      <Modified>2023-09-27T18:40:56.270</Modified>
+      <Modified>2023-10-05T21:23:32.822</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Brooke\Unity\Distance Estimation\APPDisAdj\Distance Estimation\Data\RuntimeInitializeOnLoads.json">
       <PackagePath>Data\RuntimeInitializeOnLoads.json</PackagePath>
-      <Modified>2023-09-27T18:38:45.498</Modified>
+      <Modified>2023-10-05T21:23:24.005</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Brooke\Unity\Distance Estimation\APPDisAdj\Distance Estimation\Data\ScriptingAssemblies.json">
       <PackagePath>Data\ScriptingAssemblies.json</PackagePath>
-      <Modified>2023-09-27T18:39:50.238</Modified>
+      <Modified>2023-10-05T21:23:29.444</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Brooke\Unity\Distance Estimation\APPDisAdj\Distance Estimation\Data\UnitySubsystems\MicrosoftOpenXRPlugin\UnitySubsystemsManifest.json">
       <PackagePath>Data\UnitySubsystems\MicrosoftOpenXRPlugin\UnitySubsystemsManifest.json</PackagePath>
@@ -182,7 +182,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Brooke\Unity\Distance Estimation\APPDisAdj\Distance Estimation\Data\sharedassets0.resource">
       <PackagePath>Data\sharedassets0.resource</PackagePath>
-      <Modified>2023-09-27T18:40:56.236</Modified>
+      <Modified>2023-10-05T21:23:32.800</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Brooke\Unity\Distance Estimation\APPDisAdj\Distance Estimation\Data\il2cpp_data\etc\mono\browscap.ini">
       <PackagePath>Data\il2cpp_data\etc\mono\browscap.ini</PackagePath>
@@ -226,15 +226,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Brooke\Unity\Distance Estimation\APPDisAdj\Distance Estimation\Data\il2cpp_data\Metadata\global-metadata.dat">
       <PackagePath>Data\il2cpp_data\Metadata\global-metadata.dat</PackagePath>
-      <Modified>2023-09-27T18:41:49.614</Modified>
+      <Modified>2023-10-05T21:18:36.264</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Brooke\Unity\Distance Estimation\APPDisAdj\Distance Estimation\Data\il2cpp_data\Resources\I18N.CJK.dll-resources.dat">
       <PackagePath>Data\il2cpp_data\Resources\I18N.CJK.dll-resources.dat</PackagePath>
-      <Modified>2023-09-27T18:41:37.302</Modified>
+      <Modified>2023-10-05T21:18:23.869</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Brooke\Unity\Distance Estimation\APPDisAdj\Distance Estimation\Data\il2cpp_data\Resources\mscorlib.dll-resources.dat">
       <PackagePath>Data\il2cpp_data\Resources\mscorlib.dll-resources.dat</PackagePath>
-      <Modified>2023-09-27T18:41:37.301</Modified>
+      <Modified>2023-10-05T21:18:23.868</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Brooke\Unity\Distance Estimation\APPDisAdj\Distance Estimation\openxr_loader.dll">
       <PackagePath>openxr_loader.dll</PackagePath>
@@ -250,7 +250,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Brooke\Unity\Distance Estimation\APPDisAdj\build\bin\ARM64\Release\GameAssembly.dll">
       <PackagePath>GameAssembly.dll</PackagePath>
-      <Modified>2023-09-27T18:43:48.650</Modified>
+      <Modified>2023-10-05T21:27:37.202</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\Unity\Hub\Editor\2020.3.14f1\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\il2cpp\ARM64\Release\baselib.dll">
       <PackagePath>baselib.dll</PackagePath>
@@ -258,7 +258,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Brooke\Unity\Distance Estimation\APPDisAdj\build\bin\ARM64\Release\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-09-27T18:43:54.954</Modified>
+      <Modified>2023-10-05T21:27:43.636</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

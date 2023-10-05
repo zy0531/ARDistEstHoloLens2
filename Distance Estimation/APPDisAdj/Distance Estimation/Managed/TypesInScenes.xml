@@ -63,6 +63,7 @@
 		<type fullname="Microsoft.MixedReality.Toolkit.Examples.Demos.HideTapToPlaceLabel" preserve="nothing"/>
 		<type fullname="Microsoft.MixedReality.Toolkit.Examples.Demos.SystemKeyboardExample" preserve="nothing"/>
 		<type fullname="ObjectPlacement" preserve="nothing"/>
+		<type fullname="ResetSliders" preserve="nothing"/>
 		<type fullname="SendData" preserve="nothing"/>
 		<type fullname="ShowMySliderValue" preserve="nothing"/>
 		<type fullname="SliderDisAdjust" preserve="nothing"/>
