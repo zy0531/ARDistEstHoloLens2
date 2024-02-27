@@ -78,11 +78,11 @@ public class GenerateTrialObjButton : MonoBehaviour
 
     public Transform GenerateGameObject_withDistance(Vector3 hitpoint, GameObject objectToGenerate, float dis, Vector3 planeNormal, Vector3 forwardOffset)
     {
-        float yOffset = 0.11f; // radius of a size 5 soccer ball
-        Vector3 pos = new Vector3(mainCamera.transform.position.x, hitpoint.y + yOffset, mainCamera.transform.position.z) + dis * forwardOffset;
-        // GameObject gameobject = Instantiate(objectToGenerate, pos, Quaternion.identity);
+        Vector3 pos = new Vector3(mainCamera.transform.position.x, hitpoint.y, mainCamera.transform.position.z) + dis * forwardOffset;
+        // Vector3 pos = new Vector3(mainCamera.transform.position.x, hitpoint.y + objectToGenerate.transform.localScale.y, mainCamera.transform.position.z) + dis * forwardOffset;
         objectToGenerate.SetActive(true);
         objectToGenerate.transform.position = pos;
+        objectToGenerate.transform.rotation = Quaternion.identity;
         Debug.Log("Generate!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!Soccer");
         return objectToGenerate.transform;
     }

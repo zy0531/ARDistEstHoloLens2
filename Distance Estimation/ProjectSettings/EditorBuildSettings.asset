@@ -38,9 +38,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Samples/Mixed Reality Toolkit Examples/2.7.2/Demos - Solvers/Scenes/SurfaceMagnetismSpatialAwarenessExample.unity
     guid: 8feae87497f549c4e8dc08a6e4b7b15c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/DistanceAdjustmentButton.unity
     guid: c55a591668f58d44cb5efaedaba35300
+  - enabled: 1
+    path: Assets/Scenes/DistanceAdjustmentButton(Cube).unity
+    guid: 4697ff45388a1ec4bbfeb160fa95b005
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 63dfbef5f0750e04fbc484f574dfeda2, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: a90c32e1f35665e4a926fe2d421a1538, type: 2}
