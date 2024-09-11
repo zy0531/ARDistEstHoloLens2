@@ -90,7 +90,7 @@ public class GenerateTrialObjButton : MonoBehaviour
 
         // create a file
         filename = $"Data_{DateTime.Now:yyyyMMdd_HHmmss}.csv";
-        dataManager.SaveToCSV(filename, "Time, VisionCondition, Trial, Distance, InitialRotation, InitialPosition, AdjustedPosition, diff_x, diff_y, diff_z");
+        dataManager.SaveToCSV(filename, "Time; VisionCondition; Trial; Distance; InitialRotation; InitialPosition; AdjustedPosition; diff_x; diff_y; diff_z");
     }
 
     // Start is called before the first frame update
@@ -271,15 +271,15 @@ public class GenerateTrialObjButton : MonoBehaviour
             diff_x = adjustedPosition.x - initialPosition.x;
             diff_y = adjustedPosition.y - initialPosition.y;
             diff_z = adjustedPosition.z - initialPosition.z;
-            dataManager.SaveToCSV(filename, DateTime.Now.ToString() + ','
-                                            + visionCondition + ','
-                                            + (trialNum - 1) + ','
-                                            + trialData[trialNum - 1] + ','
-                                            + initialRotation.ToString("f3") + ','
-                                            + initialPosition.ToString("f3") + ','
-                                            + adjustedPosition.ToString("f3") + ','
-                                            + diff_x + ','
-                                            + diff_y + ','
+            dataManager.SaveToCSV(filename, DateTime.Now.ToString() + ';'
+                                            + visionCondition + ';'
+                                            + (trialNum - 1) + ';'
+                                            + trialData[trialNum - 1] + ';'
+                                            + initialRotation.ToString("f3") + ';'
+                                            + initialPosition.ToString("f3") + ';'
+                                            + adjustedPosition.ToString("f3") + ';'
+                                            + diff_x + ';'
+                                            + diff_y + ';'
                                             + diff_z);
         }
     }
@@ -361,8 +361,12 @@ public class GenerateTrialObjButton : MonoBehaviour
             standingRepresentation.SetActive(true);
 
             // Set position and orientation
-            standingRepresentation.transform.position = alignmentCube.transform.position;
             standingRepresentation.transform.rotation = alignmentCube.transform.rotation;
+            standingRepresentation.transform.position = alignmentCube.transform.position;
+            // Translate the object's position by the specified offset along its local y-axis
+            float offsetY = -1f * alignmentCube.transform.localScale.y / 2.0f;
+            standingRepresentation.transform.Translate(Vector3.up * offsetY, Space.Self);
+            
         }
     }
 
