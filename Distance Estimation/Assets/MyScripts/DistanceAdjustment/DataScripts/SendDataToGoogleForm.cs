@@ -39,6 +39,7 @@ public class SendDataToGoogleForm : MonoBehaviour
 
     public void SendData2GoogleForm()
     {
+        trialData = generateTrialObjButton.getTrialData();
         trial = new List<int>();
         for (int i = 0; i < trialData.Count; i++)
         {

@@ -230,7 +230,7 @@ public class GenerateTrialObjButton : MonoBehaviour
             RecordTrialData(currentObject);
             RestoreInitialPosition(currentObject);
 
-            // change visioin condition!
+            // change vision condition!
             // show instructions on Canvas
             if (visionCondition == 0)
             {
